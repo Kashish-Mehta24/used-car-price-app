@@ -43,3 +43,5 @@ The model uses **one-hot encoded features** and expects the same format during i
 | Deployment    | `Streamlit Cloud` (optional)  |
 | Packaging     | `joblib` for model + columns  |
 
+## Related Projects
+- EDA and model training notebook: [Used Car Price EDA Repo](https://github.com/Kashish‑Mehta24/Used‑Car‑Price‑EDA)
