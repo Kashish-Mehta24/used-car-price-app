@@ -15,7 +15,7 @@ This is a **machine learning-powered Streamlit web app** that predicts the selli
 - 🌐 Streamlit app handles user input + model prediction li
 ## 🚀 Demo
 
-Try the live app here 👉 [Add Live URL Here (after deployment)]
+Try the live app here 👉 [https://used-car-price-app-atq2uxgcx4dxmd82gorpaa.streamlit.app/]
 
 ---
 
