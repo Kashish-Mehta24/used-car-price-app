@@ -45,4 +45,7 @@ input_df = input_df[model_columns]
 # Prediction
 if st.button("Predict Price"):
     prediction = model.predict(input_df)[0]
+    # Force prediction to never exceed present price
+    prediction = min(prediction, present_price)
+
     st.success(f"💰 Estimated Selling Price: ₹{prediction:.2f} lakhs")
